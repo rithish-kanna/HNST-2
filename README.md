@@ -11,6 +11,8 @@ content image is shown below
 ![image](https://github.com/rithish-kanna/HNST-1/assets/115450614/33630fe8-9a63-455f-a945-18598a9557db)
 
 Foreground separation process from separation.py file is shown below
+![image](https://github.com/rithish-kanna/HNST-1/assets/115450614/f2f0cc4e-b2e9-46c5-bbe7-8a541b167fe3)
+
 
 ![image](https://github.com/rithish-kanna/HNST-1/assets/115450614/a5a24adf-7624-4482-a99d-73d0b580666e)
 
