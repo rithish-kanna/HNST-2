@@ -28,7 +28,8 @@ Style 2 image
 
 Process done on merge.py file is shown below
 
+![download](https://github.com/rithish-kanna/HNST-1/assets/115450614/5b140c9f-8c60-45bd-9abe-359191509085)
+
 The final merging performed is shone on merge.py file
 
-
-
+![download](https://github.com/rithish-kanna/HNST-1/assets/115450614/85126a17-5b94-447d-9865-beb9d81e97a4)
