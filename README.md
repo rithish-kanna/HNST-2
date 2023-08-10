@@ -35,3 +35,6 @@ Process done on merge.py file is shown below
 The final merging performed is shone on merge.py file
 
 ![download](https://github.com/rithish-kanna/HNST-1/assets/115450614/85126a17-5b94-447d-9865-beb9d81e97a4)
+
+
+#AT LAST WE CAN SEE THAT THERE IS SEPARATE STYLE APPLIED FOR BACKGROUND AND FOREGROUND...
