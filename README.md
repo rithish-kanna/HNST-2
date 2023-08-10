@@ -1,4 +1,5 @@
 # HNST-2
+# Hybrid Neural Style Transfer - 2
 This code has Static images used, you can change the images if you wish
 By default the number of iterations is fixed to 15 you can vary them. The next iteration takes the output of the previous iteration as input.
 On moving on iterations the sharpened styles applied get merged up.
