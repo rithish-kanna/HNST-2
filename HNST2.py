@@ -13,20 +13,20 @@ from tensorflow.keras.preprocessing.image import load_img, img_to_array
 tf.compat.v1.disable_eager_execution()
 %matplotlib inline
 ls=[]
-img = cv2.imread('hnst2.png')
+img = cv2.imread('3.jpeg')
 height = img.shape[0]
 width = img.shape[1]
 i=1
 
-s3='2.jpeg'
-s4='4.jpeg'
+s3='1.jpeg'
+s4='back.jpg'
 for i in range(2):
   if i==0:
     target_image_path= 'foreground.jpg'
-    style_reference_image_path='2.jpeg'
+    style_reference_image_path='1.jpeg'
   else:
     target_image_path= 'background.jpg'
-    style_reference_image_path='4.jpeg'
+    style_reference_image_path='back.jpg'
   result_prefix = str(style_reference_image_path).split('/')[-1].split('.')[0] + '_onto_' + str(target_image_path).split('/')[-1].split('.')[0]
   width, height = load_img(str(target_image_path)).size
   img_height = 400
